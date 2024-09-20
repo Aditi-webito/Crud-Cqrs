@@ -3,5 +3,7 @@ This pattern is particularly useful in Web APIs, where it can help improve perfo
 
 CQRS separates these operations into two distinct models:
 
-Commands: Handle write operations (Create, Update, Delete). Commands are used to perform actions that modify the state of the application.
-Queries: Handle read operations (Read). Queries are used to retrieve data from the application.
+Commands: Handle write operations (Create, Update, Delete). 
+Commands are used to perform actions that modify the state of the application.
+Queries: Handle read operations (Read). 
+Queries are used to retrieve data from the application.
